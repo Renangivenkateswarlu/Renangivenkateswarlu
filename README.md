@@ -1,4 +1,4 @@
-Here’s a detailed breakdown for both options to achieve your objectives:
+
 
 Option 1: Robot Fleet Monitoring Dashboard
 
